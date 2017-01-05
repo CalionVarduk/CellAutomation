@@ -1,0 +1,8 @@
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\bin\Debug\CellAutomation.exe.config
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\bin\Debug\CellAutomation.exe
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\bin\Debug\CellAutomation.pdb
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\obj\Debug\CellAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\obj\Debug\CellAutomation.Properties.Resources.resources
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\obj\Debug\CellAutomation.csproj.GenerateResource.Cache
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\obj\Debug\CellAutomation.exe
+C:\Users\Calion\Desktop\CellAutomation\CellAutomation\obj\Debug\CellAutomation.pdb
